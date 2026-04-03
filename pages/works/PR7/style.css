@@ -1,0 +1,78 @@
+.class-one {
+    text-align: left;
+}
+
+.class-two {
+    color: brown;
+}
+
+.class-tree {
+    text-indent: 8%;
+}
+
+.class-four {
+   line-height: 200%; 
+}
+
+.class-five {
+   vertical-align: sub;
+}
+
+.class-six {
+   word-spacing: 60%; 
+}
+
+.class-seven {
+    letter-spacing: 40%;
+}
+
+.class-eith {
+    white-space: pre;
+}
+
+.class-nien {
+    tab-size: 40px;
+}
+
+.class-then {
+    text-transform: uppercase;
+}
+
+#p11 {
+    direction: rtl;
+}
+#p12{
+    text-decoration:underline;
+}
+#p13:first-letter{
+    font-size: 1.5em;
+    padding: 2px 10px;
+    margin-right: 5px; 
+    background: #FAF4F4;
+    border: 6px double;
+    color: #EE9966;
+    float: left;
+    font-weight: bold;
+}
+#p13:first-line{
+    color: #EE9966;
+}
+
+#p14{
+    quotes: '«' '»';
+}
+#p15{
+    
+}
+#p16{
+    
+}
+#p17{
+    
+}
+#p18{
+    
+}
+#p19{
+    
+}

@@ -1,0 +1,89 @@
+.line li{
+    display: inline-block;
+    margin: 0 10px;
+    list-style: none;
+    background-color:coral;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.links a{
+    display: block;
+    background-color: blue;
+    margin-bottom:10px ;
+    color: aliceblue;
+    width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+.blocks div{
+    display: inline-block;
+    margin: 0 10px;
+    list-style: none;
+    background-color:red;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.non {
+    display: none!important;
+}
+.links-markers{margin-top: 10px;  background-color: black;   width: 200px; padding-top: 3px; padding-bottom: 3px;}
+
+.links-markers a{
+    display: list-item;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.image{
+    background: url('media/weather-sun.jpg'), no-repeat;
+    border: 2px dashed #930303;
+    width: 100px;
+    height: 100px;
+}
+.post1, .post2{
+    background-color: #930303;
+    color: aliceblue;
+    margin: 0 auto;
+    margin-top: 15px;
+    height: 120px;
+}
+
+.post1 .image{
+    float: left;
+    margin-right: 20px;
+}
+
+.post2 .image{
+    float: right;
+    margin-left: 20px;
+}
+
+.seven-one div{
+    display: inline-block;
+    margin: 0 2px;
+    list-style: none;
+    width: 100px;
+    text-align: center;
+}
+.seven-one div p{
+    background-color:rgb(50, 173, 201);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 1.3em;
+    text-align: center;
+}
